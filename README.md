@@ -1,6 +1,4 @@
-# PMS
-
-Pharmacy Management System
+# Pharmacy Management System
 Technologies: VB.NET, SQL Server, Windows Forms, ADO.NET
 A comprehensive billing and inventory management system designed for pharmacies. Features include automatic inventory management, secure transaction processing, and a user-friendly interface for efficient billing operations.
 
