@@ -1,7 +1,3 @@
-Here is your **properly formatted, professional, clean, and organized README** for the *Pharmacy Management System (PMS)* — ready to paste into GitHub:
-
----
-
 # **Pharmacy Management System (PMS)**
 
 A comprehensive **Pharmacy Management System** built with **VB.NET** and **SQL Server**, designed to streamline pharmacy operations through efficient billing, inventory management, prescription handling, and secure transaction processing.
@@ -194,7 +190,7 @@ The system uses **SQL Server** with strong data integrity and optimized queries.
 
 ### **Pharmacist Main Page**
 
-![Pharmacist Main Page](https://github.com/Shaniya18/PMS/raw/master/images/Pharmacist%2520MainPage.png)
+![Pharmacist Main Page](https://github.com/Shaniya18/PMS/raw/master/images/Pharmacist%20MainPage.png)
 
 *Features menu navigation for Dashboard, Inventory, Billing, Reports, and Logout.*
 
