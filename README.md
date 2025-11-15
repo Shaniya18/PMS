@@ -14,9 +14,6 @@ A comprehensive **Pharmacy Management System** built with **VB.NET** and **SQL S
 * Usage
 * Database Integration
 * Screenshots
-* Contributing
-* License
-* Support
 
 ---
 
